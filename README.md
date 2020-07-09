@@ -1,2 +1,4 @@
 # All_Machine_Learning_python
-This contains all the machine learning algorithms that I have studied
+
+This folder is well organized folder which contains Template of all the major Machine Learning Algorithms.
+
